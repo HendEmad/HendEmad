@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @HendEmad
+- 👋 Hi, I’m Hend Emad
 - 👀 I’m interested in algorithms and AI.
 - 🌱 I’m currently learning about autonomous navigation system algorithms and go deeper in data science cobcepts and models. 
-- 💞️ I’m looking to collaborate on AI projects includes machine learning, deep learning and image processing. In addition any algorithms implementation based projects.
-- 📫 How to reach me: 
+- 💞️ I’m looking to collaborate on AI projects including machine learning, deep learning and image processing. In addition any algorithms implementation based projects.
+- 📫 How to reach me:
+
      Email: hendemadsaber@gmail.com
      LinkedIn: https://www.linkedin.com/in/hend-emad
 
