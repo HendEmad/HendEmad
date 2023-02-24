@@ -1,4 +1,4 @@
-- I’m Hend Emad, who is interested in algorithms and AI.
+- I’m Hend Emad, who is interested in algorithms and AI, especially in automotive field.
 - I’m looking to collaborate on AI projects including machinne learning, deep learning and image processing. In addition any algorithms implementation based projects.
 
 <!--- 📫 How to reach me:
