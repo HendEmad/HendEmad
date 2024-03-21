@@ -2,7 +2,7 @@ I'm Hend Emad, a passionate individual with a strong interest in algorithms, mac
 
 I am actively seeking opportunities to collaborate on exciting AI projects that involve machine learning, deep learning, and computer vision. I'm particularly interested in projects that require algorithm implementation and optimization.
 
-If you're working on a project that aligns with my areas of expertise, or if you're interested in discussing collaborations and sharing knowledge, feel free to reach out. Let's connect and make a positive impact together!"
+If you're working on a project that aligns with my areas of interest, or if you're interested in discussing collaborations and sharing knowledge, feel free to reach out. Let's connect and make a positive impact together!"
 
 <!--- 📫 How to reach me:
 
