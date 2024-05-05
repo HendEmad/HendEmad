@@ -13,7 +13,7 @@ I am a teaching and research assistant who has recently graduated from the Facul
 
 - 2023 (Graduation Project - Embedded AI Medical Quadcopter): During my final year, I immersed myself in learning the YOLO algorithm and its applications. I explored path-planning and path-finding algorithms, and complemented courses in machine learning and motion planning. Additionally, I landed my first job as a CS teaching and research assistant.
  
--2024: Currently deepening my expertise in C++ and enhancing problem-solving skills through LeetCode practice. Engaged in research focused on algorithm optimization.
+- 2024: Currently deepening my expertise in C++ and enhancing problem-solving skills through LeetCode practice. Engaged in research focused on algorithm optimization.
 
 <!--- 📫 How to reach me:
 
