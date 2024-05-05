@@ -5,7 +5,7 @@ I am actively seeking opportunities to collaborate on exciting AI projects that 
 If you're working on a project that aligns with my areas of interest, or if you're interested in discussing collaborations and sharing knowledge, let's connect and make a positive impact together!
 --->
 
-I am a teaching and research assistant who has recently graduated from the Faculty of Engineering, Electronics and Communication department, with an excellent academic record (GPA: 3.43) and ranked 7th among my peers. Here is an overview of my journey:
+I am a teaching and research assistant who has recently graduated from the Faculty of Engineering, Electronics and Communication department, with an excellent academic record (GPA: 3.43), ranked 7th among my peers. Here is an overview of my journey:
 
 - 2021: Initiated learning C++ fundamentals, including STL, basic OOP, and data structures. Additionally, I practiced problem-solving on CodeForces.
 
