@@ -11,9 +11,9 @@ I am a teaching and research assistant who has recently graduated from the Facul
 
 - 2022: Delved into algorithms and honed problem-solving abilities on HackerRank, earning basic and intermediate problem-solving certificates. Concurrently, I pursued data analysis, learned through Udacity and Coursera specializations, and completed projects utilizing Python, SQL, and Tableau. Moreover, I ventured into teaching international students probability, SQL, and statistics as a data analysis instructor, while landing my first internship in data science.
 
-- 2023 (Graduation Project - Embedded AI Medical Quadcopter): During my final year, I immersed myself in learning the YOLO algorithm and its applications. I explored path-planning and path-finding algorithms, and complemented courses in machine learning and motion planning. Additionally, I landed my first job as a CS teaching and research assistant.
+- 2023 (Graduation Project - Embedded AI Medical Quadcopter): During my final year, I immersed myself in learning the YOLO algorithm and its applications. I explored path-planning and path-finding algorithms, and complemented courses in machine learning and motion planning. Additionally, I landed my first job as a CS teaching and research assistant at Nile University.
  
-- 2024: Currently deepening my expertise in C++ and enhancing problem-solving skills through LeetCode practice. Engaged in research focused on algorithm optimization.
+- 2024: Currently deepening my expertise in C++ and enhancing problem-solving skills through LeetCode practice. Engaged in research focused on algorithm optimization, and started to work as a C++ instructor at Route.
 
 <!--- 📫 How to reach me:
 
