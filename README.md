@@ -13,7 +13,7 @@ Hend is a teaching and research assistant who has recently graduated from the Fa
 
 * 2023 (Graduation Project - Embedded AI Medical Quadcopter): During her final year, she immersed herself in learning the YOLO algorithm and its applications. Additionally, explored path-planning and path-finding algorithms, and complemented courses in machine learning and motion planning. Furthermore, she landed her first job as a CS teaching and research assistant at Nile University.
 
-* 2024: Currently deepening her expertise in C++ and enhancing problem-solving skills through LeetCode practice and games implementation. Engaged in research focused on algorithm optimization, and started to work as a C++ instructor at Route.
+* 2024: Currently deepening her learning in C++ and enhancing problem-solving skills through LeetCode practice and games implementation. Engaged in research focused on algorithm optimization, and started to work as a C++ instructor at Route.
 
 <!--- 📫 How to reach me:
 
