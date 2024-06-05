@@ -5,7 +5,7 @@ I am actively seeking opportunities to collaborate on exciting AI projects that 
 If you're working on a project that aligns with my areas of interest, or if you're interested in discussing collaborations and sharing knowledge, let's connect and make a positive impact together!
 --->
 
-Hend is a teaching and research assistant who has recently graduated from the Faculty of Engineering, Electronics and Communication department, with an excellent academic record (GPA: 3.43), ranked 7th among her peers. She  works as a teaching assistant at the Faculty of Information Technology and Computer Science at Nile University, engaged in research in algorithm optimization. In addition to her work as a C++ instructor at Route.
+Hend is a teaching and research assistant who has recently graduated from the Faculty of Engineering, Electronics and Communication department, with an excellent academic record (GPA: 3.43), ranked 7th among her peers. She  works as a teaching assistant at the Faculty of Information Technology and Computer Science at Nile University, engaged in algorithm optimization research. In addition to her work as a C++ instructor at Route.
 
 ▶️[For a detailed self-learning journey starting in 2021](https://github.com/HendEmad/HendEmad/blob/main/Details.md).
 
