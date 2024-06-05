@@ -5,15 +5,7 @@ I am actively seeking opportunities to collaborate on exciting AI projects that 
 If you're working on a project that aligns with my areas of interest, or if you're interested in discussing collaborations and sharing knowledge, let's connect and make a positive impact together!
 --->
 
-Hend is a teaching and research assistant who has recently graduated from the Faculty of Engineering, Electronics and Communication department, with an excellent academic record (GPA: 3.43), ranked 7th among her peers. Here is an overview of her self-learning journey:
-
-* 2021: Initiated learning C++ fundamentals, including STL, basic OOP, and data structures. Additionally, she practiced problem-solving on CodeForces.
-
-* 2022: Delved into algorithms and honed problem-solving abilities on HackerRank, earning basic and intermediate problem-solving certificates. Concurrently, she pursued data analysis, learned through Udacity and Coursera specializations, and completed projects utilizing Python, SQL, and Tableau. Moreover, she ventured into teaching international students probability, SQL, and statistics as a data analysis instructor, while landing her first internship in data science.
-
-* 2023 (Graduation Project - Embedded AI Medical Quadcopter): During her final year, she immersed herself in learning the YOLO algorithm and its applications. Additionally, explored path-planning and path-finding algorithms, and complemented courses in machine learning and motion planning. Furthermore, she landed her first job as a CS teaching and research assistant at Nile University.
-
-* 2024: Currently deepening her learning in C++ and enhancing problem-solving skills through LeetCode practice and games implementation. Engaged in research focused on algorithm optimization, and started to work as a C++ instructor at Route.
+Hend is a teaching and research assistant who has recently graduated from the Faculty of Engineering, Electronics and Communication department, with an excellent academic record (GPA: 3.43), ranked 7th among her peers. She  works  no as a teaching assistant at the Faculty of Information Technology and Computer Science at Nile University. In addition to her work as a C++ instructor at Route. [For a detailed self-learning journey starting in 2021](https://github.com/HendEmad/HendEmad/blob/main/Details.md).
 
 <!--- 📫 How to reach me:
 
