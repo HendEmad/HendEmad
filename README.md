@@ -6,9 +6,9 @@ If you're working on a project that aligns with my areas of interest, or if you'
 
 
 Hend is a teaching and research assistant who has recently graduated from the Faculty of Engineering, Electronics and Communication department, with an excellent academic record (GPA: 3.43), ranked 7th among her peers. She  worked as a teaching assistant at the Faculty of Information Technology and Computer Science at Nile University, where she is engaged in algorithm optimization research. In addition to her work as a C++ instructor at Route.
---->
-▶️[My progress since 2021](https://github.com/HendEmad/HendEmad/blob/main/Details.md)
 
+▶️[My progress since 2021](https://github.com/HendEmad/HendEmad/blob/main/Details.md)
+--->
 <!--- 📫 How to reach me:
 
      Email: hendemadsaber@gmail.com
