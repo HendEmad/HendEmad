@@ -1,5 +1,5 @@
 <details>
-<summary><h3>🔵 Professional Timeline <h3></summary>
+<summary><h3>🔵 Professional Timeline Highlights<h3></summary>
 
 <details>
 <summary>2021</summary>
