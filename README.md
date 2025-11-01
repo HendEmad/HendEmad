@@ -47,8 +47,8 @@
 
 - Conducting research in **Computer Vision**  
   - **Self- & Semi-supervised Learning**  
-  - **Vision-Language Models (VLMs)**  
-- Seeking **Research Collaborations** and **R&D Roles**  
+  - **Vision-Language Models (VLMs)**
+- Starting my work as a computer vision research assistant at the American University in Cairo (AUC).
 </details>
 </details>
 
