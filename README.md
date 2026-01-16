@@ -43,14 +43,27 @@
 ---
 
 <details>
-<summary>2025 – Present</summary>
+<summary>2025</summary>
 
 - Conducting research in **Computer Vision**  
   - **Self- & Semi-supervised Learning**  
   - **Vision-Language Models (VLMs)**
 - Starting my work as a computer vision research assistant at the American University in Cairo (AUC).
 </details>
+
+---
+
+<details>
+  <summary>2026</summary>
+  - Continuing my roles as
+      - Teaching and Research Assistant at Nile University (NU)
+      - Computer Vision Research Assistant at the American University in Cairo (AUC).
+  
+  - Start working on code generation using LLMs and RAG.
 </details>
+</details>
+
+
 
 <!-- <details>
 <summary><h3>🔵 Education <h3></summary>
