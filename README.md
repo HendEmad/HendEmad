@@ -55,8 +55,9 @@
 
 <details>
   <summary>2026</summary>
-  - Continuing my roles as
-      - Teaching and Research Assistant at Nile University (NU)
+  
+  - Continuing my roles as:
+      - Teaching and Research Assistant at Nile University (NU).
       - Computer Vision Research Assistant at the American University in Cairo (AUC).
   
   - Start working on code generation using LLMs and RAG.
