@@ -1,4 +1,4 @@
-<!-- <details>
+<details>
 <summary><h3>🔵 Professional Timeline Highlights<h3></summary>
 
 <details>
@@ -137,4 +137,4 @@
 ---
 
 </details>
---> -->
+-->
