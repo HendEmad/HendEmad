@@ -1,4 +1,4 @@
-<details>
+<!--<details>
 <summary><h3>🔵 Professional Timeline Highlights<h3></summary>
 
 <details>
@@ -64,7 +64,7 @@
 </details>
 </details>
 
-
+-->
 
 <!-- <details>
 <summary><h3>🔵 Education <h3></summary>
